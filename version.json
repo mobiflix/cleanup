@@ -1,5 +1,0 @@
-{
-  "version": "v68",
-  "released": "2026-09-29",
-  "notes": "Code cleanup: removed ~460 lines of dead code (legacy modal system, unused functions, duplicate handlers). No feature changes."
-}
